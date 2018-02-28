@@ -76,13 +76,16 @@ classes/
 # Maven
 ######################
 /log/
+log/
 /target/
+target/
 
 ######################
 # Gradle
 ######################
 .gradle/
 /build/
+build/
 
 ######################
 # Package Files
